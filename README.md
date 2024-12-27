@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owekhai Paschal</h1>
-<h3 align="center">A passionate Data Analyst from Nigeria</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owekhai&label=Profile%20views&color=0e75b6&style=flat" alt="owekhai" /> </p>
 
